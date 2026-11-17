@@ -3,7 +3,7 @@ name = "SigmaOS-arch-cache"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-cache component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
